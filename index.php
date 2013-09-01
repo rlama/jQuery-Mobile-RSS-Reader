@@ -50,6 +50,10 @@
          <img src="img/wdLogo.jpg" alt="Webdesigntuts+" class="ui-li-icon" />
          <a href="site.php?siteName=webdesigntutsplus"> Webdesigntuts+ </a>
        </li>
+	   <li>
+         <img src="img/wdLogo.jpg" alt="Webdesigntuts+" class="ui-li-icon" />
+         <a href="site.php?siteName=webdesigntutsplus"> Webdesigntuts+ </a>
+       </li>
      </ul>
    </div>
 
