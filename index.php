@@ -12,7 +12,7 @@
      <ul data-role="listview" data-theme="c" data-dividertheme="d" data-counttheme="e">
        <li>
          <img src="img/ntLogo.jpg" alt="Nettuts" class="ui-li-icon" />
-         <a href="site.php?siteName=nettuts"> Nettuts+ </a>
+         <a href="lamainteractives.com"> Nettuts+ </a>
        </li>
        <li>
          <img src="img/psdLogo.jpg" alt="Psdtuts" class="ui-li-icon" />
